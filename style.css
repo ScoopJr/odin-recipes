@@ -1,0 +1,46 @@
+/* All properties to have
+font black
+background color light blue
+font color black garamond serif
+*/
+
+body{
+    font-family:"Garamond", sans-serif;
+    background-color: lightcyan;
+  }
+
+  /* Headings to be
+  dark blue
+  bold
+  centre aligned
+  */
+
+  .header {
+    color: darkblue;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  /* Subheadings to be
+  dark blue
+  bold
+  */
+
+  .subheader {
+    color: darkblue;
+    font-weight: bold;
+  }
+
+  /* Images to be
+  400 wide
+  height auto
+  centre aligned
+  */
+
+  img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
